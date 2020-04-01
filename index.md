@@ -4,7 +4,7 @@ You can have a tour at my web applications
 
 ### React
 
-[Tic-Tac-Toe](serdok.github.io/tic-tac-toe)
+[Tic-Tac-Toe](https://serdok.github.io/tic-tac-toe/)
 
 
 ### Contact
